@@ -2,4 +2,4 @@
 Trendyol Test Otomasyonu
 
 
-# Favoriler dolu olduğu taktirde hata veriyor.
+Favoriler dolu olduğu taktirde hata veriyor.
